@@ -3,17 +3,16 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 <p>
-💻 Frontend Developer passionate about building responsive and interactive web interfaces. <br>
-🎯 Currently focused on improving my skills in modern web technologies. <br>
-🚀 I enjoy turning ideas into real web experiences.
+💻 Frontend Developer passionate about building responsive and interactive websites.<br>
+🚀 I enjoy turning ideas into real web experiences.<br>
+🎯 Currently improving my JavaScript and frontend development skills.
 </p>
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
@@ -25,10 +24,6 @@ const ali = {
   role: "Frontend Developer",
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["Git", "GitHub", "VS Code"],
-  interests: [
-    "Web Development",
-    "UI Design",
-    "Responsive Design"
-  ],
-  learning: "Advanced JavaScript and modern frontend frameworks"
+  focus: "Frontend Development",
+  learning: "Advanced JavaScript"
 };
